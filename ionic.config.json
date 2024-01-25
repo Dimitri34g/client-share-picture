@@ -1,0 +1,7 @@
+{
+  "name": "client_share_picture",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
